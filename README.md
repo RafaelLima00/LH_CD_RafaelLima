@@ -30,12 +30,15 @@ pip install -r requirements.txt
 ou 
 pip install numpy pandas scikit-learn matplotlib seaborn
 ```
+
+## Link da minha apresentação do Projeto: 
+
+
 ## Estrutura do Projeto - Olha só como tudo está organizado!
 
 ```bash
 ├── modelo.pkl            # O seu modelo maravilindo salvo aqui
 ├── requirements.txt      # Para garantir que você não vai esquecer de nada 
-├── codigo-fonte.py               # O código principal que faz tudo funcionar
-├── Relatorio.py               # Onde vou explicar todo o trabalho
-├── dataset                  # A pasta com os dados (se você tiver dados para compartilhar, né?)
+├── Relatorio.ipynb               # O código principal que faz tudo funcionar, Onde vou explicar todo o trabalho            
+├── dataset                  # A pasta com os dados 
 └── README.md             # Este arquivo, cheio de glamour e instruções
