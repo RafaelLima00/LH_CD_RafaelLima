@@ -39,6 +39,7 @@ pip install numpy pandas scikit-learn matplotlib seaborn
 ```bash
 ├── modelo.pkl            # O seu modelo maravilindo salvo aqui
 ├── requirements.txt      # Para garantir que você não vai esquecer de nada 
-├── Relatorio.ipynb               # O código principal que faz tudo funcionar, Onde vou explicar todo o trabalho            
+├── LH_CD_RafaelBarbosaLima.ipynb               # O código principal e relatório que faz tudo funcionar, Onde vou explicar todo o meu trabalho
+├── LH_CD_RafaelBarbosaLima.py          # Se preferir em py         
 ├── dataset                  # A pasta com os dados 
 └── README.md             # Este arquivo, cheio de glamour e instruções
