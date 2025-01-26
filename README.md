@@ -31,8 +31,9 @@ ou
 pip install numpy pandas scikit-learn matplotlib seaborn
 ```
 
-## Link da minha apresentação do Projeto: 
+## Link da apresentação do Projeto: 
 
+https://drive.google.com/file/d/13VfxA7vGtJFFamLz03b5mrwU03U91x0n/view?usp=sharing
 
 ## Estrutura do Projeto - Olha só como tudo está organizado!
 
